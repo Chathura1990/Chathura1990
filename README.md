@@ -33,7 +33,7 @@ I specialize in bridging the gap between cutting-edge Large Language Models and 
 
 ### 📊 GitHub Stats
 
-![Chathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathura1990&show_icons=true&theme=tokyonight)
+[Chathura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chathura1990&show_icons=true&theme=tokyonight)
 
 ---
 
