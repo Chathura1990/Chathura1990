@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chathura
+# 👋 Hi, I’m Chathura - (Chath)
 
 ### 🤖 Local AI Architect | QA Automation Engineer | Tech Enthusiast 
 
