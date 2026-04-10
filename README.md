@@ -38,7 +38,7 @@ I specialize in bridging the gap between cutting-edge Large Language Models and 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/chathura-rajapakse-014a8345/) | [Portfolio/Blog](your-site-link-here)
+[LinkedIn](https://www.linkedin.com/in/chathura-rajapakse-014a8345/)
 
 ### My Digital Lab Notebook
 [Quantized Quality](https://chathura1990.github.io/quantize-quality-csr)
